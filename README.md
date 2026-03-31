@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tristanjarrett
 - 👀 I’m interested in building apps
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M0SS8F)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tristanjarrett)
 
 <!---
 tristanjarrett/tristanjarrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
